@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Engenharia de Software.</h3>
 
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Conecte-se comigo: isaabaessa@outlook.com</h3>
 <p align="left">
 </p>
 
