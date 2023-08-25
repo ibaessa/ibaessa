@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, sou Isabela Baessa</h1>
 <h3 align="center">Estudante de Engenharia de Software.</h3>
 
-- 🔭 Atualmente estou trabalhando em [Bite by Bite]( https://trello.com/b/ND9vbpug/bite-by-bite)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
